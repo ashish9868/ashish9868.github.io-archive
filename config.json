@@ -54,7 +54,7 @@
                 }
             ],
             "name": "Test URL",
-            "description": "Verifying Catholic Virtual Url is up"
+            "description": "Verifying if Catholic Virtual Url is up"
         },
         {
             "type": "VALIDATE_URL",
@@ -65,18 +65,7 @@
                 }
             ],
             "name": "Test URL",
-            "description": "Verifying Agilixbuzz Url is up"
-        },
-        {
-            "type": "VALIDATE_URL",
-            "urls": [
-                {
-                    "url": "https://zoom.us",
-                    "label": "Zoom URL"
-                }
-            ],
-            "name": "Test URL: Zoom",
-            "description": "Verifying Zoom Url is up"
+            "description": "Verifying if Agilixbuzz Url is up"
         },
         {
             "type": "VALIDATE_URL",
